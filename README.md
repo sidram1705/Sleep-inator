@@ -6,18 +6,15 @@
     * Github Repository URL: https://github.com/sidram1705/Sleep-inator.git
     * Description of test hardware: Analog Flex Sensors, RTC module DS1307, MH-M38 Bluetooth Audio Transfer Module, 5V one channel Relay module, Atmega328PB, Macbook Air M1
 
-## 1. Video Presentation
+
+
+### Demo Video
+
 <div>
   <a href="https://drive.google.com/file/d/1h2oaXr2Lgt21I4sSVrcXJzAyCmuN9wzB/view?usp=sharing">
     Click here for demo video
   </a>
 </div>
-
-
-### Demo Video
-
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1h2oaXr2Lgt21I4sSVrcXJzAyCmuN9wzB/view?usp=sharing" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Images  
 
