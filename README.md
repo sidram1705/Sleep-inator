@@ -8,8 +8,8 @@
 
 ## 1. Video Presentation
 <div>
-  <a href="https://youtu.be/Mck-twe9h9U">
-    <img src="assets/images/photo.jpeg" width="100%" title="Click here for demo video"> Click here for demo video
+  <a href="https://drive.google.com/file/d/1h2oaXr2Lgt21I4sSVrcXJzAyCmuN9wzB/view?usp=sharing">
+    Click here for demo video
   </a>
 </div>
 
