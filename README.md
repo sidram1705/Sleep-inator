@@ -104,7 +104,7 @@ uint16_t ADC_read(uint8_t channel) {
 ```
 
 - **SRS02: Implementing the RTC drivers**
-    Validation: We chose the DS1307 as the RTC. It was interfaced with the microcontroller via the I2C protocol. The microcontroller's I2C pins were configured with the appropriate pull-up resistors. The driver development consisted of writing the necessary functions according to the configuration required by the driver and the microcontroller. The successful working was verified on the Salae Logic Analyzer. 
+    **Validation:** We chose the DS1307 as the RTC. It was interfaced with the microcontroller via the I2C protocol. The microcontroller's I2C pins were configured with the appropriate pull-up resistors. The driver development consisted of writing the necessary functions according to the configuration required by the driver and the microcontroller. The successful working was verified on the Salae Logic Analyzer. 
     
     <div align=center>
     <img src="/images/Logic_analyzer.png" width="600"> 
@@ -173,5 +173,3 @@ Overall, this was a really fun and informative project. All thanks to Nick and t
 <div align=center>
 <img src="/images/Demo_day.jpg" width="600"> 
 </div>
-
-**Bloopers**  
